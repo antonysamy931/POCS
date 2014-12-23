@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MvcWebApiCors</id>
+    <version>0.4.0.0</version>
+    <title>MvcWebApiCors</title>
+    <authors>Christian Giacomi</authors>
+    <owners>Christian Giacomi</owners>
+    <licenseUrl>https://github.com/cgiacomi/MvcWebApiCors/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cgiacomi/MvcWebApiCors</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MvcWebApiCors is a small library for .NET MVC 4 which sets the response headers correctly to allow Cross Origin Resource Sharing. You don't have to upgrade to MVC 5, you don't have to upgrade to Visual Studio 2013 and you definitely don't have to have IE10!</description>
+    <releaseNotes>Ability to add multiple origins.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>MVC CORS .NET</tags>
+  </metadata>
+</package>

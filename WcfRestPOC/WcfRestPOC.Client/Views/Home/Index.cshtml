@@ -1,0 +1,98 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="Rest">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body ng-controller="WcfRest">
+    <div>
+        <ul>
+            <li ng-repeat="book in books">
+                <p>{{book.BookName}}</p>
+                <a href="" ng-click="Edit(book.Id)">Edit</a><a href="" ng-click="Delete(book.Id)">Delete</a></li>
+        </ul>
+        <br />
+        <input type="hidden" ng-model="book.Id" />
+        <label>Name</label>:<input type="text" ng-model="book.BookName" />
+        <input type="button" ng-click="Save()" value="{{button}}" />
+    </div>
+    <script src="~/Scripts/angular.min.js"></script>
+    <script type="text/javascript">
+        var app = angular.module("Rest", []);
+        app.controller("WcfRest", ["$scope", "$http", function ($scope, $http) {
+            var ServiceUrl = "http://localhost:51668/RestService.svc";
+            $scope.books = [];
+            $scope.book = {};
+            var GetBooks = function () {
+                $http({
+                    method: 'GET',
+                    url: ServiceUrl + "/Book"
+                }).success(function (data, status, headers, config) {
+                    $scope.books = data;
+                }).error(function (err, status, headers, config) {
+                    console.log(err);
+                });
+                $scope.button = "CREATE";
+            };
+            GetBooks();
+
+            $scope.Edit = function (id) {
+                $http({
+                    method: 'GET',
+                    url: ServiceUrl + "/Book/" + id
+                }).success(function (data, status, headers, config) {
+                    $scope.book = data;
+                }).error(function (err, status, headers, config) {
+                });
+                $scope.button = "UPDATE";
+            };
+
+            $scope.Delete = function (id) {
+                $http({
+                    method: 'DELETE',
+                    url: ServiceUrl + '/Book/Delete/' + id
+                }).success(function (data, status, headers, config) {
+                    GetBooks();
+                }).error(function (err, status, headers, config) {
+                });
+            };
+
+            $scope.Save = function () {
+                if (typeof ($scope.book.Id) === 'undefined') {
+                    $http({
+                        method: 'POST',
+                        url: ServiceUrl + '/AddBook',
+                        data: JSON.stringify($scope.book),
+                        headers: {
+                            'content-type': 'application/json; charset=utf-8'
+                        }
+                    }).success(function (data, status, headers, config) {
+                        GetBooks();
+                        $scope.book = {};
+                    }).error(function (err, status, headers, config) {
+                    });
+                }
+                else {
+                    $http({
+                        method: 'PUT',
+                        url: ServiceUrl + '/UpdateBook',
+                        data: JSON.stringify($scope.book),
+                        headers: {
+                            'content-type': 'application/json; charset=utf-8'
+                        }
+                    }).success(function (data, status, headers, config) {
+                        GetBooks();
+                        $scope.book = {};
+                    }).error(function (err, status, headers, config) {
+                    });
+                }
+            };
+        }]);
+    </script>
+</body>
+</html>

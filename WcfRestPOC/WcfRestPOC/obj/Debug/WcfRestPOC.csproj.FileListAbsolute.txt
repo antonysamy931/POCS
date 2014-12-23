@@ -1,0 +1,7 @@
+E:\Visual Studio 2012 project\WcfRestPOC\WcfRestPOC\bin\WcfRestPOC.dll
+E:\Visual Studio 2012 project\WcfRestPOC\WcfRestPOC\bin\WcfRestPOC.pdb
+E:\Visual Studio 2012 project\WcfRestPOC\WcfRestPOC\obj\Debug\WcfRestPOC.dll
+E:\Visual Studio 2012 project\WcfRestPOC\WcfRestPOC\obj\Debug\WcfRestPOC.pdb
+E:\Visual Studio 2012 project\WcfRestPOC\WcfRestPOC\bin\EntityFramework.dll
+E:\Visual Studio 2012 project\WcfRestPOC\WcfRestPOC\bin\EntityFramework.xml
+E:\Visual Studio 2012 project\WcfRestPOC\WcfRestPOC\obj\Debug\WcfRestPOC.csprojResolveAssemblyReference.cache
