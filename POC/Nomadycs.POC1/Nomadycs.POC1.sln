@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Web.UI", "Nomadycs.POC1.Web.UI\Nomadycs.POC1.Web.UI.csproj", "{26E95EEC-D891-4A58-8C1C-328BB21C3B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Service", "Nomadycs.POC1.Service\Nomadycs.POC1.Service.csproj", "{4DB4617C-B613-4F94-B0E7-B6768743E936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Business", "Nomadycs.POC1.Business\Nomadycs.POC1.Business.csproj", "{0F386BB5-685D-44F7-B64F-5D033B33F04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Data", "Nomadycs.POC1.Data\Nomadycs.POC1.Data.csproj", "{DF37D9D3-45EE-49C9-AD9F-6AA5B28CB2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Model", "Nomadycs.POC1.Model\Nomadycs.POC1.Model.csproj", "{E2813529-00A0-4418-B97F-3A4A2510BACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E95EEC-D891-4A58-8C1C-328BB21C3B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E95EEC-D891-4A58-8C1C-328BB21C3B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E95EEC-D891-4A58-8C1C-328BB21C3B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E95EEC-D891-4A58-8C1C-328BB21C3B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB4617C-B613-4F94-B0E7-B6768743E936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB4617C-B613-4F94-B0E7-B6768743E936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB4617C-B613-4F94-B0E7-B6768743E936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB4617C-B613-4F94-B0E7-B6768743E936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F386BB5-685D-44F7-B64F-5D033B33F04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F386BB5-685D-44F7-B64F-5D033B33F04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F386BB5-685D-44F7-B64F-5D033B33F04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F386BB5-685D-44F7-B64F-5D033B33F04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF37D9D3-45EE-49C9-AD9F-6AA5B28CB2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF37D9D3-45EE-49C9-AD9F-6AA5B28CB2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF37D9D3-45EE-49C9-AD9F-6AA5B28CB2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF37D9D3-45EE-49C9-AD9F-6AA5B28CB2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2813529-00A0-4418-B97F-3A4A2510BACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2813529-00A0-4418-B97F-3A4A2510BACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2813529-00A0-4418-B97F-3A4A2510BACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2813529-00A0-4418-B97F-3A4A2510BACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

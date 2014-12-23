@@ -1,0 +1,4 @@
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Model\bin\Debug\Nomadycs.POC1.Model.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Model\bin\Debug\Nomadycs.POC1.Model.pdb
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Model\obj\Debug\Nomadycs.POC1.Model.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Model\obj\Debug\Nomadycs.POC1.Model.pdb

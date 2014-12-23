@@ -1,0 +1,84 @@
+﻿@model Nomadycs.POC1.Web.UI.Models.ViewModel.HomeViewModel
+@{
+    Layout = null;    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <ol>
+        @if (Model.Context.Resources.Any(x => x == "Manufacturer Group"))
+        {
+            <li><a href="#">Manufacturer Group</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Manufacturer"))
+        {
+            <li><a href="@Url.Action("Index","Manufacturer")">Manufacturer</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Field Service Company"))
+        {
+            <li><a href="#">Field Service Company (FSC)</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Model"))
+        {
+            <li><a href="#">Model</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Model - Custom Attributes"))
+        {
+            <li><a href="#">Model - Custom Attributes</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Partslist"))
+        {
+            <li><a href="#">Partslist</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Partslist Section"))
+        {
+            <li><a href="#">Partslist Section</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Parts - Manufacturer Attributes"))
+        {            
+            <li><a href="#">Parts - Manufacturer Attributes</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Parts - Stockist Attributes"))
+        {
+            <li><a href="#">Parts - Stockist Attributes</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Parts - Pricing Details"))
+        {
+            <li><a href="#">Parts - Pricing Details</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Folio"))
+        {
+            <li><a href="#">Folio</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Document"))
+        {
+            <li><a href="#">Document</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "User"))
+        {
+            <li><a href="@Url.Action("Index","User")">User</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Job"))
+        {
+            <li><a href="#">Job</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Parts - FSC Attributes"))
+        {
+            <li><a href="#">Parts - FSC Attributes</a></li>
+        }
+        @if (Model.Context.Resources.Any(x => x == "Trade Counter"))
+        {
+            <li><a href="#">Trade Counter</a></li>
+        }
+        </ol>
+        @Html.ActionLink("Logout", "Logout", "Account")
+    </div>
+</body>
+</html>

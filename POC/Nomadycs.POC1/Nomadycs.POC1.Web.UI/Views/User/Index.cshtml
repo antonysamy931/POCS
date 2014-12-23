@@ -1,0 +1,38 @@
+﻿@model Nomadycs.POC1.Web.UI.Models.ViewModel.UserViewModel
+@using Nomadycs.POC1.Web.UI.Principal;
+@{    
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Users</h1>
+        <ol>
+            @if (Model.Context.Create)
+            {
+                <li><a href="@Url.Action("Create","User")">Create</a></li>
+            }
+            @if (Model.Context.Edit)
+            {
+                <li><a href="#">Edit</a></li>
+            }
+            @if (Model.Context.Read)
+            {
+                <li><a href="#">Read</a></li>
+            }
+            @if (Model.Context.Delete)
+            {
+                <li><a href="#">Delete</a></li>
+            }
+        </ol>
+        @Html.ActionLink("Logout","Logout","Account")
+    </div>
+</body>
+</html>

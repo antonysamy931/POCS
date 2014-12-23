@@ -1,0 +1,15 @@
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Service.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Service.pdb
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Business.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Model.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Data.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Business.pdb
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Model.pdb
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Nomadycs.POC1.Data.pdb
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\obj\Debug\Nomadycs.POC1.Service.csprojResolveAssemblyReference.cache
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\obj\Debug\Nomadycs.POC1.Service.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Service\obj\Debug\Nomadycs.POC1.Service.pdb
