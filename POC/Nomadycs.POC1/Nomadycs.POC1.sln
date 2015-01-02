@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Data", "Nomad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Model", "Nomadycs.POC1.Model\Nomadycs.POC1.Model.csproj", "{E2813529-00A0-4418-B97F-3A4A2510BACA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Logger", "Nomadycs.POC1.Logger\Nomadycs.POC1.Logger.csproj", "{F7419CA2-C2C6-4B11-9530-A7BE5BB9C5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomadycs.POC1.Logger.Console", "Nomadycs.POC1.Logger.Console\Nomadycs.POC1.Logger.Console.csproj", "{D8B1D87F-4B3A-4E50-B9B7-E241D0F31E27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,11 +41,19 @@ Global
 		{E2813529-00A0-4418-B97F-3A4A2510BACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2813529-00A0-4418-B97F-3A4A2510BACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2813529-00A0-4418-B97F-3A4A2510BACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7419CA2-C2C6-4B11-9530-A7BE5BB9C5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7419CA2-C2C6-4B11-9530-A7BE5BB9C5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7419CA2-C2C6-4B11-9530-A7BE5BB9C5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7419CA2-C2C6-4B11-9530-A7BE5BB9C5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B1D87F-4B3A-4E50-B9B7-E241D0F31E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B1D87F-4B3A-4E50-B9B7-E241D0F31E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B1D87F-4B3A-4E50-B9B7-E241D0F31E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B1D87F-4B3A-4E50-B9B7-E241D0F31E27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.Database.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal

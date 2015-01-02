@@ -1,0 +1,22 @@
+﻿@model WcfService1.Interfaces.Data
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.LabelFor(model=>model.Name)
+        @Html.TextAreaFor(model=>model.Name)
+        <input type="submit" value="SAVE" />
+    }
+</body>
+</html>

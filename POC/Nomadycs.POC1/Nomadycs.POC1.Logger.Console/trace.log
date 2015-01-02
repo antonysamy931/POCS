@@ -1,0 +1,29 @@
+----------------------------------------
+Timestamp: 12/31/2014 6:46:24 AM
+
+Message: Error Message
+
+Category: categoryspecial
+
+Priority: -1
+
+EventId: 0
+
+Severity: Error
+
+Title:
+
+Machine: 2DI3049
+
+App Domain: Nomadycs.POC1.Logger.Console.vshost.exe
+
+ProcessId: 3984
+
+Process Name: E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Nomadycs.POC1.Logger.Console.vshost.exe
+
+Thread Name: 
+
+Win32 ThreadId:5248
+
+Extended Properties: 
+----------------------------------------

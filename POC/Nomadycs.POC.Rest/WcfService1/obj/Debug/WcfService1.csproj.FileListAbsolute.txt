@@ -1,0 +1,5 @@
+E:\Nomadycs\POC\Nomadycs.POC.Rest\WcfService1\bin\WcfService1.dll
+E:\Nomadycs\POC\Nomadycs.POC.Rest\WcfService1\bin\WcfService1.pdb
+E:\Nomadycs\POC\Nomadycs.POC.Rest\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+E:\Nomadycs\POC\Nomadycs.POC.Rest\WcfService1\obj\Debug\WcfService1.dll
+E:\Nomadycs\POC\Nomadycs.POC.Rest\WcfService1\obj\Debug\WcfService1.pdb
