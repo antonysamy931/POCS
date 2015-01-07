@@ -10,4 +10,8 @@ E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\bin\Debug\Microsoft.Practices
 E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
 E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\obj\Debug\Nomadycs.POC1.Logger.dll
 E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\obj\Debug\Nomadycs.POC1.Logger.pdb
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
 E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger\obj\Debug\Nomadycs.POC1.Logger.csprojResolveAssemblyReference.cache

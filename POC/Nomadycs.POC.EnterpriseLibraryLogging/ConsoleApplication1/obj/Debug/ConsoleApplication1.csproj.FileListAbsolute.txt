@@ -1,0 +1,16 @@
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Logging.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Logging.pdb
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml

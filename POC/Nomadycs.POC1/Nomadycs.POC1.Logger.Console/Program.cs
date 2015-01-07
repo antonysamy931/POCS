@@ -18,6 +18,7 @@ namespace Nomadycs.POC1.Logger.Console
             {
                 LogSample logSample = new LogSample();
                 logSample.logData();
+                //logSample.Exceptionsample();
             }
         }
     }

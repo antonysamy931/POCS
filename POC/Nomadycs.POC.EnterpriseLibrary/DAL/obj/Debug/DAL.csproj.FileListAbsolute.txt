@@ -1,0 +1,9 @@
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\bin\Debug\DAL.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\bin\Debug\DAL.pdb
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\obj\Debug\DAL.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibrary\DAL\obj\Debug\DAL.pdb

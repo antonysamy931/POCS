@@ -40,6 +40,14 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=6.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EnterpriseLibrary.ExceptionHandling.6.0.1304.0\lib\NET45\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=6.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EnterpriseLibrary.ExceptionHandling.Logging.6.0.1304.0\lib\NET45\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=6.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
@@ -61,7 +69,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

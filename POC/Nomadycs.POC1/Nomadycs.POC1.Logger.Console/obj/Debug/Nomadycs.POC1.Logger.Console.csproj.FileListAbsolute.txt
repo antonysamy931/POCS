@@ -14,3 +14,7 @@ E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.P
 E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
 E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
 E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml

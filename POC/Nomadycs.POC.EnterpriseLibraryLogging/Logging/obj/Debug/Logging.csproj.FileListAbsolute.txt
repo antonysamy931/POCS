@@ -1,0 +1,12 @@
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Logging.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Logging.pdb
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\obj\Debug\Logging.dll
+E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\Logging\obj\Debug\Logging.pdb

@@ -1,0 +1,30 @@
+----------------------------------------
+Timestamp: 1/6/2015 12:12:55 PM
+
+Message: Error Message
+
+Category: Category
+
+Priority: 0
+
+EventId: 0
+
+Severity: Error
+
+Title:sample logging in database
+
+Machine: 2DI3049
+
+App Domain: Nomadycs.POC1.Logger.Console.vshost.exe
+
+ProcessId: 7656
+
+Process Name: E:\Nomadycs\POC\Nomadycs.POC1\Nomadycs.POC1.Logger.Console\bin\Debug\Nomadycs.POC1.Logger.Console.vshost.exe
+
+Thread Name: 
+
+Win32 ThreadId:5788
+
+Extended Properties: sampleextra - 1/6/2015 5:42:55 PM
+
+----------------------------------------

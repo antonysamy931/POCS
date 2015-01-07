@@ -1,0 +1,29 @@
+----------------------------------------
+Timestamp: 1/7/2015 6:13:29 AM
+
+Message: Sample Error
+
+Category: Rolling Log
+
+Priority: 2
+
+EventId: 0
+
+Severity: Error
+
+Title:Error Information
+
+Machine: 2DI3049
+
+App Domain: ConsoleApplication1.vshost.exe
+
+ProcessId: 3352
+
+Process Name: E:\Nomadycs\POC\Nomadycs.POC.EnterpriseLibraryLogging\ConsoleApplication1\bin\Debug\ConsoleApplication1.vshost.exe
+
+Thread Name: 
+
+Win32 ThreadId:2336
+
+Extended Properties: 
+----------------------------------------
