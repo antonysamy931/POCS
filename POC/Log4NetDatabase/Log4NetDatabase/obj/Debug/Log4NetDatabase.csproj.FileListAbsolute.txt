@@ -1,0 +1,10 @@
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\bin\Debug\Log4NetDatabase.exe.config
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\bin\Debug\Log4NetDatabase.exe
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\bin\Debug\Log4NetDatabase.pdb
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\obj\Debug\Log4NetDatabase.csprojResolveAssemblyReference.cache
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\obj\Debug\Log4NetDatabase.exe
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\obj\Debug\Log4NetDatabase.pdb
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\bin\Debug\Log4NetLogger.dll
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\bin\Debug\log4net.dll
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\bin\Debug\Log4NetLogger.pdb
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetDatabase\bin\Debug\log4net.xml

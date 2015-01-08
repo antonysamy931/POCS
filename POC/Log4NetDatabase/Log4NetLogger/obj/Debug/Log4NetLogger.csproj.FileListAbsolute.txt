@@ -1,0 +1,7 @@
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetLogger\bin\Debug\Log4NetLogger.dll
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetLogger\bin\Debug\Log4NetLogger.pdb
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetLogger\bin\Debug\log4net.dll
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetLogger\bin\Debug\log4net.xml
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetLogger\obj\Debug\Log4NetLogger.csprojResolveAssemblyReference.cache
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetLogger\obj\Debug\Log4NetLogger.dll
+c:\users\antonysamy.j\documents\visual studio 2012\Projects\Log4NetDatabase\Log4NetLogger\obj\Debug\Log4NetLogger.pdb
